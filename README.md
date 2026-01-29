@@ -1,2 +1,5 @@
 # NLP-Basics-Tokenization
-This notebook covers basic Natural Language Processing concepts: - Text preprocessing - Sentence tokenization - Word tokenization  Tools used: - Python - NLTK - Jupyter Notebook
+This repository contains a Jupyter Notebook created as part of my initial learning journey in Natural Language Processing (NLP). The notebook focuses on understanding how textual data can be processed and prepared for further analysis using Python.
+The project demonstrates fundamental NLP techniques such as text preprocessing, lowercasing, sentence tokenization, and word tokenization. These steps are essential in transforming raw text into a structured format that machine learning models can understand.
+The notebook is implemented using Python and popular NLP libraries like NLTK, and it is intended for beginners who want to build a strong foundation in NLP concepts. This project serves as a hands-on practice exercise and a reference for future NLP and AI-based applications.
+This repository reflects my continuous learning and experimentation in the field of Artificial Intelligence and Natural Language Processing, and it will be expanded with more advanced NLP techniques over time.
